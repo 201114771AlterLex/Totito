@@ -1,0 +1,10 @@
+bueno aqui esta mi Totito
+para poder ejecutarlo tienen que hacer lo siguiente
+En el cmd.
+ejecutan las siguientes instrucciones estando en el path
+en el que se encuentra el archivo...
+
+y colocan.
+
+javac totito.java // esto crea la clase
+java totito // ejecuta la aplicacion
